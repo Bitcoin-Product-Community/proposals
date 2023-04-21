@@ -2,7 +2,7 @@
 name: 'Proposal Template '
 about: 'This template is for Bitcoin Product Community Proposals. '
 title: ''
-labels: ''
+labels: Proposal
 assignees: ''
 
 ---
